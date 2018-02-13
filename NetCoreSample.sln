@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2027
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreSample", "NetCoreSample\NetCoreSample.csproj", "{33DCDA2B-6A3D-4200-846D-DA0B2B57A3BA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreDemo", "NetCoreDemo\NetCoreDemo.csproj", "{73855577-3765-4A44-BB6D-B940CD39B324}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{33DCDA2B-6A3D-4200-846D-DA0B2B57A3BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{33DCDA2B-6A3D-4200-846D-DA0B2B57A3BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{33DCDA2B-6A3D-4200-846D-DA0B2B57A3BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{33DCDA2B-6A3D-4200-846D-DA0B2B57A3BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73855577-3765-4A44-BB6D-B940CD39B324}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73855577-3765-4A44-BB6D-B940CD39B324}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73855577-3765-4A44-BB6D-B940CD39B324}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73855577-3765-4A44-BB6D-B940CD39B324}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
